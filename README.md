@@ -1,2 +1,2 @@
 # mozzycraft
-minecraft on ec2 with terraform
+minecraft on ec2 with OpenTofu
