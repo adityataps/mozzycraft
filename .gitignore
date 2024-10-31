@@ -35,3 +35,5 @@ terraform.rc
 
 # Local development files
 .env
+
+.DS_Store
